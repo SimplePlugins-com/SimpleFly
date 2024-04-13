@@ -1,0 +1,10 @@
+{
+  "prefix": "§7[§9§lSystem§7]",
+  "no_console": "{Prefix} §cYou have to be a Player!",
+  "no_permission": "{Prefix} §cYou do not have permission to use this command!",
+  "player_not_found": "{Prefix} §cThe specified player could not be found!",
+  "flight_enabled": "{Prefix} §7You are now in §aflight mode",
+  "flight_disabled": "{Prefix} §7You are no longer in §cflight mode",
+  "flight_enabled_other": "{Prefix} {Player} is now in §aflight mode",
+  "flight_disabled_other": "{Prefix} {Player} is no longer in §cflight mode"
+}

@@ -1,0 +1,16 @@
+#
+# Plugin made by SimplePlugins
+# https://www.spigotmc.org/resources/simplefly.114779/
+#
+# Further Resources:
+# https://www.spigotmc.org/members/simple-plugins.1956834/#resources
+#
+
+command:
+  name: fly
+
+  aliases:
+    - flight
+
+  permission: "SimpleFly.command.fly"
+  permission-other: "SimpleFly.command.fly.other"
